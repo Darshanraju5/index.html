@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "name": "Sales",
+      "courses": [
+        {
+          "title": "Sales Mastery 101",
+          "description": "Learn core sales strategies from top experts.",
+          "video": "https://www.youtube.com/embed/example1",
+          "pdf": "https://example.com/sales-guide.pdf"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "courses": [
+        {
+          "title": "Intro to AI",
+          "description": "Explore AI basics and tools like ChatGPT.",
+          "video": "https://www.youtube.com/embed/example2",
+          "pdf": "https://example.com/ai-guide.pdf"
+        }
+      ]
+    }
+  ]
+}
